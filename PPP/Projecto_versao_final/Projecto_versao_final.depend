@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1558806534 source:c:\users\claud\onedrive\desktop\save files\favoritos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558809119 c:\users\claud\onedrive\desktop\save files\hf_lists.h
+
+1558809119 source:c:\users\claud\onedrive\desktop\save files\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558637764 source:c:\users\claud\onedrive\desktop\save files\places.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558705389 source:c:\users\claud\onedrive\desktop\save files\ponto_4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558806534 source:c:\users\claud\onedrive\desktop\save files\ponto_5_2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558122789 source:c:\users\claud\onedrive\desktop\save files\ponto_6.c
+
+1558808993 source:c:\users\claud\onedrive\desktop\save files\ponto_6_2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558650123 source:c:\users\claud\onedrive\desktop\save files\teste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558807793 source:c:\users\claud\onedrive\desktop\save files\try.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558704968 source:c:\users\claud\onedrive\desktop\save files\viagem.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558806689 source:c:\users\claud\onedrive\desktop\save files\users.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558807793 source:c:\users\claud\onedrive\desktop\save files\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+	<time.h>
+
+1558806534 source:c:\users\claud\onedrive\desktop\proj_ppp\favoritos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558826428 c:\users\claud\onedrive\desktop\proj_ppp\hf_lists.h
+
+1558809119 source:c:\users\claud\onedrive\desktop\proj_ppp\ficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558826090 source:c:\users\claud\onedrive\desktop\proj_ppp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+	<time.h>
+
+1558637764 source:c:\users\claud\onedrive\desktop\proj_ppp\places.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558705389 source:c:\users\claud\onedrive\desktop\proj_ppp\ponto_4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558806534 source:c:\users\claud\onedrive\desktop\proj_ppp\ponto_5_2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558808993 source:c:\users\claud\onedrive\desktop\proj_ppp\ponto_6_2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558650123 source:c:\users\claud\onedrive\desktop\proj_ppp\teste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558807793 source:c:\users\claud\onedrive\desktop\proj_ppp\try.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558826317 source:c:\users\claud\onedrive\desktop\proj_ppp\users.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+
+1558704968 source:c:\users\claud\onedrive\desktop\proj_ppp\viagem.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"hf_lists.h"
+

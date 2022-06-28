@@ -1,0 +1,60 @@
+Ana|Address_8|04/11/1995|900000007
+
+Madeira
+
+Catarina|Address_10|14/03/1965|900000009
+
+
+
+Claudia|Address_7|01/01/1990|900000006
+
+
+
+Daniela|Address_2|10/02/2000|900000001
+
+
+
+Gabriel|Address_3|07/10/1999|900000002
+Almeida
+Guarda|Lisboa|Porto
+Marvao
+Henrique|Address_4|15/06/1970|900000003
+
+
+
+Jose|Address_1|31/01/1997|900000000
+Castelo de Vide
+
+
+Kevin|Address_10|12/03/2002|910000000
+Museu do Quartzo
+Castelo Branco|Coimbra|Viseu
+Se Velha|Se de Braga|Universidade de Coimbra
+Kevin|Rua da Mesura|11/03/1974|914000000
+Universidade de Coimbra
+
+
+Lourenco|Address_9|06/05/2019|915000000
+
+
+
+Manuel|Address_6|31/03/2000|900000005
+
+
+
+Patricio|Rua da Ladeira|09/02/1999|911000000
+
+
+
+Pedro|Address_5|17/08/1982|900000004
+
+Setubal
+
+Rodrigo|Rua de Pires|12/01/1977|913000000
+Universidade de Coimbra
+Porto
+Castelo de Beja
+Samuel|Address_9|12/12/2001|900000008
+
+
+
